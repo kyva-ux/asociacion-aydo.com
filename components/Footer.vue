@@ -14,8 +14,8 @@ footer
       .title
         | S&Iacute;GUENOS:
       .social-links
-        img.bg-image(alt='Instagram icon' src='/instagram-icon.svg')
-        img.bg-image(alt='Facebook icon' src='/facebook-icon.svg')
+        //- img.bg-image(alt='Instagram icon' src='/instagram-icon.svg')
+        //- img.bg-image(alt='Facebook icon' src='/facebook-icon.svg')
 </template>
 
 <style>
