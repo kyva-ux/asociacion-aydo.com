@@ -119,7 +119,7 @@ div
         .btn Enviar
       .right
         div Recibiras nuestro boletín mensual
-        img(alt="Imagen boletin" src="/boletin.svg")
+        //- img(alt="Imagen boletin" src="/boletin.svg")
 </template>
 
 <script setup>
